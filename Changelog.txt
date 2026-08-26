@@ -1,0 +1,17 @@
+OpenNETCF.Samples.HTMLViewerVB
+
+============================== RELEASE HISTORY ============================
+* January 8, 04 - Chris Tacke
+*  - Released version 1.0
+*  - Must use OpenNETCF.IO.Serial 1.3
+===========================================================================
+
+
+/* ============================== Change Log ==============================
+* -------------------------
+* January 8, 04 - Chris Tacke
+* -------------------------
+* This version written by Richard Grier, December 28, 2003.  
+* See http://www.hardandsoftware.net for contact information
+*
+=================================================================== */
