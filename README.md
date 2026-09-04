@@ -10,6 +10,10 @@ Working copy of OpenNETCF.Samples.SerialVB from Dave Robinson's Historical Dev a
 
 Open `SerialVB.sln` in Visual Studio 2003 (Smart Device / Pocket PC).
 
+## Requirements
+
+- Visual Studio 2005
+
 ## License
 
 Original OpenNETCF Shared Source License; see `EULA.txt` and `THIRD_PARTY_NOTICES.md`. This repository does not claim authorship.
