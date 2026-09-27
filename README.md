@@ -6,6 +6,12 @@ Working copy of OpenNETCF.Samples.SerialVB from Dave Robinson's Historical Dev a
 **Language:** VB.NET  
 **Target:** Pocket PC
 
+## Solution structure
+
+| Project | Language | Type | Purpose |
+| --- | --- | --- | --- |
+| see tree | see tree | see tree | Repository contents |
+
 ## How to open
 
 Open `SerialVB.sln` in Visual Studio 2003 (Smart Device / Pocket PC).
@@ -13,6 +19,10 @@ Open `SerialVB.sln` in Visual Studio 2003 (Smart Device / Pocket PC).
 ## Requirements
 
 - Visual Studio 2005
+
+## Attribution and provenance
+
+Working copy from my Historical Dev folder.
 
 ## License
 
